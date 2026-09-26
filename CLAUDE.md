@@ -17,6 +17,7 @@ A RAG question-answering system over public Canadian OSFI regulatory guidelines.
 
 ## Conventions
 - Commit format: `type(scope): description`, type ∈ feat / fix / eval / refactor / docs / notes / chore. Eval commits include numbers (e.g. `Recall@5 0.62 → 0.78`).
+- Do not add `Co-Authored-By` or any AI attribution lines to commit messages or PR descriptions.
 - Daily log: `notes/devlog/day-XX.md`, copied from `notes/devlog/_template.md`.
 - Never commit `.env`. `notes/interview-bank.md` is private and gitignored.
 - Eval gold labels use clause numbers (e.g. `B-20 §3.2`), never chunk_id.
