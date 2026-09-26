@@ -28,4 +28,10 @@
 - D2: read B-20 end to end, fill in `notes/doc-structure.md`
 
 ## Commits
--
+- `chore: init project structure`
+- `docs: add project spec and 28-day plan`
+- `feat(data): add download script for OSFI guidelines (B-20, E-23, B-10)`
+- `notes: add note templates, day 01 devlog, decisions D-001/D-002`
+- `chore: update commit conventions in CLAUDE.md`
+- `chore: rename project to compliance-rag` (compliance-qa read like "quality assurance"; the new name signals the technique)
+- Pushed to https://github.com/jasmineisbuilding/compliance-rag
