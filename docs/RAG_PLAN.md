@@ -1,4 +1,4 @@
-# compliance-qa — 28-Day Execution Plan
+# compliance-rag — 28-Day Execution Plan
 
 Companion to `RAG_SPEC.md` (v3). Assumes **2–3 hours per day**; day 7 of each week is a buffer + retro for catching up.
 
@@ -9,7 +9,7 @@ Companion to `RAG_SPEC.md` (v3). Assumes **2–3 hours per day**; day 7 of each 
 ## 1. Note-Keeping System (set up on D1, used daily)
 
 ```
-compliance-qa/
+compliance-rag/
 └── notes/
     ├── devlog/            # daily logs: day-01.md, day-02.md ...
     ├── weekly/            # weekly retros: w1.md ... w4.md

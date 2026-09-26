@@ -1,4 +1,4 @@
-# compliance-qa
+# compliance-rag
 
 A RAG question-answering system over public Canadian banking regulatory guidance (OSFI guidelines), with clause-level citations, honest "not found" refusals, and an evaluation harness comparing retrieval strategies.
 

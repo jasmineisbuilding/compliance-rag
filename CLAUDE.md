@@ -1,4 +1,4 @@
-# compliance-qa
+# compliance-rag
 
 A RAG question-answering system over public Canadian OSFI regulatory guidelines. This is an interview portfolio project; the author has 8 years of banking/compliance experience.
 

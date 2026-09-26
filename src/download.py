@@ -11,7 +11,7 @@ import requests
 
 BASE = "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/"
 RAW_DIR = Path(__file__).resolve().parent.parent / "data" / "raw"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compliance-qa research project)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compliance-rag research project)"}
 
 SOURCES = [
     {

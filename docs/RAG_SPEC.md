@@ -1,4 +1,4 @@
-# compliance-qa — Project Spec (v3, 2026-09-25)
+# compliance-rag — Project Spec (v3, 2026-09-25)
 
 A RAG question-answering system over public Canadian banking regulatory guidance (OSFI guidelines).
 Portfolio project: raw material for resume bullets, behavioral stories, and system design discussions.
@@ -31,7 +31,7 @@ Portfolio project: raw material for resume bullets, behavioral stories, and syst
 ## File Structure
 
 ```
-compliance-qa/
+compliance-rag/
 ├── README.md
 ├── data/
 │   ├── raw/             # original HTML/PDF downloaded from OSFI
