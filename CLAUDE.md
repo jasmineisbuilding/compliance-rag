@@ -9,9 +9,11 @@ A RAG question-answering system over public Canadian OSFI regulatory guidelines.
 ## Language
 - **Everything committed to the repo must be in English**: code, comments, commit messages, README, docs, and all files under `notes/`.
 - Chat with the author in Chinese.
-- Exception: `notes/interview-bank.md` is gitignored and may be in any language.
+- Exception: `notes/interview-bank.md` and `notes/knowledge.md` are gitignored and may be in any language.
 
 ## Working with the author
+- **Teach while building; don't rush.** The author is new to this kind of engineering work. Before each step, explain *why* it is being done and what it is; after, summarize what was done. Explain every technical term in Chinese with the English term alongside (e.g. "虚拟环境 virtual environment"). Do one step at a time and check understanding rather than doing many things in one go.
+- Record new concepts in `notes/knowledge.md` (bilingual: Chinese explanation + English term + role in this project + likely interview question).
 - The author must be able to explain every line of code in an interview. For core logic (chunking, retrieval, eval), the author writes it first: explain the approach and review their code; do not write full implementations unless explicitly asked. Boilerplate (download scripts, Streamlit UI, glue code) can be written directly.
 - When making a non-obvious choice, call out the trade-off so it can be recorded in `notes/decisions.md`.
 

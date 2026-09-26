@@ -12,6 +12,7 @@ chroma_db/
 
 # Private interview notes
 notes/interview-bank.md
+notes/knowledge.md
 
 # OS / IDE
 .DS_Store
