@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+python-dotenv
+chromadb
+cohere
+openai
+anthropic
+rank_bm25
+tiktoken
+streamlit
